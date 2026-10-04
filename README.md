@@ -179,23 +179,3 @@ API_KEY = "YOUR_API_KEY"
 Replace `YOUR_API_KEY` with your own API key.
 
 Do not publish or share the real API key.
-
-## 17. How to Run
-
-Open the project folder in VS Code.
-
-Install Requests:
-
-```bash
-pip install requests
-```
-
-Configure the API key in `weather.py`.
-
-Run:
-
-```bash
-python main.py
-```
-
-The Weather Information System window will open.

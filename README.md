@@ -176,6 +176,4 @@ The API key should be stored in `weather.py`.
 API_KEY = "YOUR_API_KEY"
 ```
 
-Replace `YOUR_API_KEY` with your own API key.
-
 Do not publish or share the real API key.
